@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PereTV
-- ☕ I am a Java back-end developer
+- ☕ I am a Java back-end web developer
 - 🌱 I am currently learning Angular and TypeScript
 
 <!---
