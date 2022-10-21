@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PereTV
-- 🌱 I’m currently learning Java
+- ☕ I am a Java back-end developer
+- 🌱 I am currently learning Angular and TypeScript
 
 <!---
 PereTV/PereTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
